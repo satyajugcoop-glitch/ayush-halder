@@ -1,0 +1,6 @@
+{
+  "name": "Car Rental Dashboard",
+  "description": "A mobile-optimized trip logging and financial tracking dashboard for car rental fleets and individual drivers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
